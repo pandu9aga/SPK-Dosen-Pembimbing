@@ -1,0 +1,5 @@
+# SISTEMPAKAR
+PHP VERSION 7, CI 3.1.7, HTML5, CSS3, JQUERY, JAVASCRIPT, SB ADMIN 2, Bootstrap
+
+DECISION SUPPORT SYSTEM MENGGUNAKAN TEXT MINING UNTUK MEREKOMENDASIKAN DOSEN PEMBIMBING TUGAS AKHIR
+--------------------------------------------------------------------------------------------
