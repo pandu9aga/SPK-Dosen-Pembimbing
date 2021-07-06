@@ -153,7 +153,7 @@
               <th>Aksi</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIP</th>
@@ -164,7 +164,7 @@
               <th>Riwayat Bimbingan</th>
               <th>Aksi</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <?php
           $nim = $this->session->userdata('nim');
           $data = $this->Judul_model->cekJudulMahasiswa($nim)->result();

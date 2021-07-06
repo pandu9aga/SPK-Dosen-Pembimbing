@@ -29,7 +29,7 @@
               <th>Edit</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIP</th>
@@ -43,7 +43,7 @@
               <th>Riwayat Bimbingan</th>
               <th>Edit</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <tbody>
             <?php
             $no = 1;

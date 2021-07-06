@@ -25,7 +25,7 @@
               <th>Riwayat Bimbingan</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIP</th>
@@ -38,7 +38,7 @@
               <th>Penelitian</th>
               <th>Riwayat Bimbingan</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <tbody>
             <?php
             $no = 1;

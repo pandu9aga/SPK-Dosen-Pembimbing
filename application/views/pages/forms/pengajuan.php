@@ -20,7 +20,7 @@
               <th>Detail</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIP</th>
@@ -28,7 +28,7 @@
               <th>Status Pengajuan</th>
               <th>Detail</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <?php
           $no = 1;
           foreach ($pengajuan as $key) {

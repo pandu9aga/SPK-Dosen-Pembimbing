@@ -102,7 +102,7 @@
               <th>Aksi</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIM</th>
@@ -111,7 +111,7 @@
               <th>Judul</th>
               <th>Aksi</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <tbody>
             <?php
             $no = 1;

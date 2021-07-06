@@ -20,7 +20,7 @@
               <th>Daftar Pengaju</th>
             </tr>
           </thead>
-          <tfoot>
+          <!--tfoot>
             <tr>
               <th>No</th>
               <th>NIP</th>
@@ -28,7 +28,7 @@
               <th>Sisa Kuota</th>
               <th>Daftar Pengaju</th>
             </tr>
-          </tfoot>
+          </tfoot-->
           <tbody>
             <?php
             $no = 1;
